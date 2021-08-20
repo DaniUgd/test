@@ -10,6 +10,10 @@ package tp1;
  * @author Agustin
  */
 public class Prueba2 {
+<<<<<<< HEAD
     int chau=0;
+=======
+    int cosas2=0;
+>>>>>>> b5ec49df436376cd1684876413b455b4a8ea16b6
     
 }
