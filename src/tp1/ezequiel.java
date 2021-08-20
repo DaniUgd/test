@@ -7,11 +7,8 @@ package tp1;
 
 /**
  *
- * @author Agustin
+ * @author Daniel
  */
-public class Prueba2 {
-
-    int chau=0; 
-    int eze=0;
-    
+public class ezequiel {
+    int eeze=0;
 }
