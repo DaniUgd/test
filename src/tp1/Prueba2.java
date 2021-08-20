@@ -10,6 +10,6 @@ package tp1;
  * @author Agustin
  */
 public class Prueba2 {
-    int hola=0;
+    int chau=0;
     
 }
