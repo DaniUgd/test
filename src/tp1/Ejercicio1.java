@@ -20,7 +20,8 @@ import java.util.Scanner;
 public class Ejercicio1 {
     // Inicio Metodo Ejercicio 1
     public static int mayor(int a, int b, int c) {
-        int m;
+        int m,z;
+        z=0;
         if(a>=b){
             m=a;
         }
@@ -57,6 +58,8 @@ public class Ejercicio1 {
     
     public static void main(String[] args) { 
         //Inicio Ejercicio 1
+        
+        System.out.println("asda");
         int a=1;
         int b=5;
         int c=8;
